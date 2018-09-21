@@ -39,6 +39,12 @@ CSS Setup
                 background-color: blue; (kind of like a text highlight)<br>
                 opacity: 0.5; (50%)<br>
                 text-transform: uppercase; (ex. capitalize)<br>
-                background-image: url("PLACE URL HERE");</p>
+                background-image: url("PLACE URL HERE");<br>
+                Height: XXpx;<br>
+                Width: XXpx;<br>
+                border: width style color (3px solid coral)<br>
+                <i>Examples:</i> Thin, medium, thick ; none, dotted solid<br>
+                border-radius: XXpx; (5px rounds the corners)<br>
+                padding, padding-top, padding-right, padding-bottom, padding-left<br>
                 
  
