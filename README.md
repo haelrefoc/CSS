@@ -31,10 +31,16 @@ CSS Setup
               Heading 1: h1 { xxx }<br>
               <p>
                 <strong>Curly Braces Content:</strong><br>
-                font-family: Arial; (ex. cursive)<br>
+                font-family: Arial; (ex. cursive, "courier new")<br>
                 font-size: 16px;<br>
+                font-weight: normal; (ex. bold)<br>
+                text-align: right; (ex. left, center)<br>
                 color: maroon;<br>
+                background-color: blue; (kind of like a text highlight)<br>
+                opacity: 0.5; (50%)<br>
                 text-transform: uppercase; (ex. capitalize)<br>
+                background-image: url("PLACE URL HERE");<br>
+                
                 <p>
                   <strong>CSS Sector for HTML:</strong><br>
                   p class="brand">XXXXXXX /p><br>
